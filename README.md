@@ -48,7 +48,9 @@ The model was trained using Ridge regression with filtering top 20 features. The
 
 ## Data Dictionary
 
-[Data Dictionary]() 
+[Data Dictionary](https://github.com/alantancr/Project_2/blob/master/datasets/DataDocumentation.txt) 
+
+[Variables](https://github.com/alantancr/Project_2/blob/master/datasets/variables.csv) [Mapping of variables]
 
 
 
